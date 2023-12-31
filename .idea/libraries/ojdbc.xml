@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="ojdbc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ojdbc/xmlparserv2_sans_jaxp_services.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/ons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/simplefan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/ojdbc10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/orai18n.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/ojdbc10dms_g.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/xdb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/oraclepki.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/xmlparserv2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/dms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/ojdbc10dms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/osdt_cert.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/ojdbc10_g.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/ucp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/osdt_core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

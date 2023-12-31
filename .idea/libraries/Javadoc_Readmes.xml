@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Javadoc-Readmes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ojdbc/Javadoc-Readmes/ucp-Javadoc-19c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/Javadoc-Readmes/xmlparserv2-Javadoc-19c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/Javadoc-Readmes/JDBC-Javadoc-19c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/Javadoc-Readmes/xdb-Javadoc-19c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ojdbc/Javadoc-Readmes/simplefan-Javadoc-19c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
